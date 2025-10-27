@@ -22,4 +22,3 @@ print("{}={}".format(product, pris))
 '''
 birden fazla satir yorum eklemek
 '''
-
